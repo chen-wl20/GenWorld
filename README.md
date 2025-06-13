@@ -1,6 +1,6 @@
 # GenWorld: Towards Detecting AI-generated Real-world Simulation Videos
 
-[**Paper**](https://arxiv.org/abs/2408.12601) | [**Project Page**](https://chen-wl20.github.io/GenWorld//)
+[**Paper**](https://arxiv.org/abs/2408.12601) | [**Project Page**](https://chen-wl20.github.io/GenWorld/)
 
 > Official implementation of GenWorld: Towards Detecting AI-generated Real-world Simulation Videos
 
@@ -16,12 +16,12 @@ Abstract: *The flourishing of video generation technologies has endangered the c
     <img src="assets/teaser.png">
 </p>
 
-
+<!-- 
 ## Demo
 📽️ [Watch the video!](./assets/genworld_demo_mp4.mp4)
 <!-- <p align="center">
     <video src="assets/genworld_demo_mp4.mp4" controls autoplay loop muted width="640"></video>
-</p> -->
+</p> --> -->
 
 
 ## Acknowledgement
