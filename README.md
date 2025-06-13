@@ -27,5 +27,13 @@ Abstract: *The flourishing of video generation technologies has endangered the c
 ## BibTeX
 
 ```
-
+@misc{chen2025genworlddetectingaigeneratedrealworld,
+      title={GenWorld: Towards Detecting AI-generated Real-world Simulation Videos}, 
+      author={Weiliang Chen and Wenzhao Zheng and Yu Zheng and Lei Chen and Jie Zhou and Jiwen Lu and Yueqi Duan},
+      year={2025},
+      eprint={2506.10975},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.10975}, 
+}
 ```
