@@ -16,12 +16,7 @@ Abstract: *The flourishing of video generation technologies has endangered the c
     <img src="assets/teaser.png">
 </p>
 
-<!-- 
-## Demo
-📽️ [Watch the video!](./assets/genworld_demo_mp4.mp4)
-<!-- <p align="center">
-    <video src="assets/genworld_demo_mp4.mp4" controls autoplay loop muted width="640"></video>
-</p> --> -->
+
 
 
 ## Acknowledgement
