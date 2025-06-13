@@ -19,7 +19,7 @@ Abstract: *The flourishing of video generation technologies has endangered the c
 
 
 
-## Acknowledgement
+<!-- ## Acknowledgement -->
 
 
 
